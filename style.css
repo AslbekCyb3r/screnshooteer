@@ -1,0 +1,448 @@
+.responsiv {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.otacontainer {
+    width: 1920px;
+    height: 902px;
+    border: 1px dashed black;
+    margin: 0 auto;
+
+}
+
+.header {
+    width: 1460px;
+    height: 99px;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+
+}
+
+.bolacontainer {
+    width: 90%;
+    height: 24px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.headertext {
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #565656;
+    gap: 20px;
+    align-items: center;
+
+
+}
+
+#select {
+    width: 39px;
+    height: 24px;
+
+
+}
+
+.ru {
+    width: 19px;
+    height: 21px;
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #56565680;
+
+
+}
+
+.rigtimg {
+    width: 170px;
+    height: 170px;
+    backdrop-filter: blur(22px);
+    background-image: url(./img/Color=White-Glossy.png);
+    background-repeat: no-repeat;
+
+
+
+}
+
+.navbar {
+    width: 100%;
+    height: 602px;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    justify-content: space-evenly;
+
+}
+
+.navbartext1 {
+    width: 455px;
+    height: 171px;
+    font-family: Rubik;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56.88px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.bjtext {
+    width: 212px;
+    height: 57px;
+    border: 1px solid #7421B0;
+    background: #7421B029;
+    color: #7421B0;
+
+
+
+
+}
+
+.navbertext2 {
+    width: 460px;
+    height: 133px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #828282;
+
+
+
+}
+
+.navbarbuttun {
+    width: 235px;
+    height: 70px;
+    border-radius: 5px;
+    background: linear-gradient(97.02deg, #7421B0 28.9%, #D08EFF 139.98%);
+    color: white;
+    border: none;
+
+
+
+}
+
+.navbaryozuvlaruchun {
+    width: 40%;
+    margin-left: 30px;
+
+
+}
+
+.leftrasm {
+    width: 800px;
+    height: 620px;
+    border-radius: 70px;
+    background: linear-gradient(180deg, #7421B0 0%, #D08EFF 100%);
+    margin-left: 130px;
+    display: flex;
+    align-items: center;
+
+
+
+}
+
+.leftrasm2 {
+    width: 798px;
+    height: 477px;
+    border-radius: 5px;
+    background-image: url(./img/example\ 1.png);
+    margin-left: -100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.orqasi {
+    width: 282px;
+    height: 108px;
+    border-radius: 10px;
+    border: 1px solid #FFFFFF26;
+    backdrop-filter: blur(40px);
+    position: relative;
+    top: 270px;
+
+
+}
+
+.orqasitext {
+    width: 190px;
+    height: 52px;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    color: #FFFFFF;
+    display: flex;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 20px;
+
+
+}
+
+.chiziqqq {
+    width: 2275.81px;
+    height: 965px;
+    background-image: url(./img/DecorativeLine.png);
+    position: relative;
+    bottom: 450px;
+    right: 500px;
+
+
+
+}
+
+.pastkistrellkaaa {
+    width: 204.33px;
+    height: 168px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+
+}
+
+.header2ota {
+    width: 1441px;
+    height: 562px;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    margin-top: 500px;
+
+
+}
+
+.navberjon {
+    width: 1583px;
+    height: 169px;
+    justify-content: center;
+    gap: 70px;
+
+
+}
+
+.navberjon2 {
+    width: 571px;
+    height: 169px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #828282;
+
+
+}
+
+.navberjon1 {
+    width: 473px;
+    height: 86px;
+    font-family: Rubik;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42.66px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.navberchotext {
+    color: #7421B0;
+}
+
+.lefttextt {
+    color: rgb(0, 0, 0);
+}
+
+.cardlar {
+    width: 1440px;
+    height: 294px;
+    gap: 20px;
+
+
+}
+
+
+.card1 {
+    width: 338px;
+    height: 294px;
+    position: relative;
+    box-shadow: 5px color pink;
+    background-color: rgb(255, 249, 249);
+    border-radius: 10px;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);
+}
+
+.card1:hover {
+    background-color: #0e0a11;
+}
+
+.cursor {
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 50px;
+    position: relative;
+}
+
+
+
+
+.kursor1 {
+    background-image: url(./img/001-cursor@2x\ \(2\).png);
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+
+.card1:hover .kursor1 {
+    width: 80px;
+    height: 80px;
+    background-image: url(./img/001-cursor.png);
+
+
+}
+
+.card1:hover .cardlartext1 {
+    color: rgb(255, 244, 244);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.save {
+    width: 80px;
+    height: 80px;
+    background-image: url(./img/003-save.png);
+}
+
+.card1:hover .save {
+    width: 80px;
+    height: 80px;
+    background-image: url(./img/savee.png);
+}
+
+.puziii {
+    width: 80px;
+    height: 80px;
+    background-image: url(./img/puzzi.png);
+}
+
+
+
+
+
+.card1:hover .puziii {
+    width: 80px;
+    height: 80px;
+    background-image: url(./img/001-puzzle.png);
+
+}
+
+.lovee {
+    width: 80px;
+    height: 80px;
+    background-image: url(./img/love.png);
+}
+
+.card1:hover .lovee {
+    width: 80px;
+    height: 80px;
+    background-image: url(./img/love2.png);
+}
+
+
+
+
+
+
+
+
+.cardlartext1 {
+    width: 167px;
+    height: 64px;
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgb(218, 52, 52);
+
+
+}
+
+.header3ota {
+    width: 80%;
+    height: 952px;
+    border: 1px solid black;
+    margin: 0 auto;
+
+
+
+}
+
+.rigtrasm {
+    width: 246px;
+    height: 246px;
+    background-image: url(./img/Color=White-Glossy.png);
+    background-repeat: no-repeat;
+}
+
+.chiziq2 {
+    width: 2275.81px;
+    height: 265px;
+    border: 2px;
+
+
+}
+
+.bodyjonn {
+    width: 903px;
+    height: 650px;
+    border-radius: 70px;
+    border: 3px solid #ff00000c;
+    backdrop-filter: blur(5px);
+    display: flex;
+    align-items: center;
+
+
+
+
+
+
+}
+
+.left_rasmm {
+    width: 705px;
+    height: 397px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    position: relative;
+    left: 300px;
+
+
+}
